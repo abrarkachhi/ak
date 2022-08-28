@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.main{
+    height: 1024px;
+    width: 750px;
+    background-color: aqua;
+    margin: auto;
+}
+.header{
+    height: 150px;
+    width: 750px;
+    float: left;
+    
+}
+.container{
+    height: 824px;
+    width: 750px;
+    background-color: chocolate;
+}
+.footer{
+    height: 50px;
+    width: 750px;
+    background-color: grey;
+}
+.s{
+    height: 100px;
+    width: 550px;
+    background-color: lightblue;
+   float: left;
+}
+.logo{
+    height: 150px;
+    width: 200px;
+    float: left;
+    
+
+}
+.navbar{
+    height: 50px;
+    width: 550px;
+    background-color: red;
+    float: left;
+}
+.navbar ul li {
+    float: left;
+    display: block;
+    width: 130px;
+    background-color: beige;
+
+}
